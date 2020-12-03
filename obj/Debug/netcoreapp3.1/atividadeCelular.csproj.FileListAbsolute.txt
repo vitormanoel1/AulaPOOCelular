@@ -1,0 +1,13 @@
+C:\Users\winicius\Documents\atividades8\atividadeCelular\bin\Debug\netcoreapp3.1\atividadeCelular.exe
+C:\Users\winicius\Documents\atividades8\atividadeCelular\bin\Debug\netcoreapp3.1\atividadeCelular.deps.json
+C:\Users\winicius\Documents\atividades8\atividadeCelular\bin\Debug\netcoreapp3.1\atividadeCelular.runtimeconfig.json
+C:\Users\winicius\Documents\atividades8\atividadeCelular\bin\Debug\netcoreapp3.1\atividadeCelular.runtimeconfig.dev.json
+C:\Users\winicius\Documents\atividades8\atividadeCelular\bin\Debug\netcoreapp3.1\atividadeCelular.dll
+C:\Users\winicius\Documents\atividades8\atividadeCelular\bin\Debug\netcoreapp3.1\atividadeCelular.pdb
+C:\Users\winicius\Documents\atividades8\atividadeCelular\obj\Debug\netcoreapp3.1\atividadeCelular.csprojAssemblyReference.cache
+C:\Users\winicius\Documents\atividades8\atividadeCelular\obj\Debug\netcoreapp3.1\atividadeCelular.AssemblyInfoInputs.cache
+C:\Users\winicius\Documents\atividades8\atividadeCelular\obj\Debug\netcoreapp3.1\atividadeCelular.AssemblyInfo.cs
+C:\Users\winicius\Documents\atividades8\atividadeCelular\obj\Debug\netcoreapp3.1\atividadeCelular.csproj.CoreCompileInputs.cache
+C:\Users\winicius\Documents\atividades8\atividadeCelular\obj\Debug\netcoreapp3.1\atividadeCelular.dll
+C:\Users\winicius\Documents\atividades8\atividadeCelular\obj\Debug\netcoreapp3.1\atividadeCelular.pdb
+C:\Users\winicius\Documents\atividades8\atividadeCelular\obj\Debug\netcoreapp3.1\atividadeCelular.genruntimeconfig.cache
